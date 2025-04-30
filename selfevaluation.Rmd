@@ -1,7 +1,7 @@
 ---
 title: "AN/BI 588: End-of-Semester Self Evaluation"
-author: "Christopher A Schmitt"
-date: "January 17, 2025"
+author: "Carly McDermott"
+date: "May 1, 2025"
 output: 
   rmarkdown::html_document:
     theme: cosmo
@@ -21,44 +21,44 @@ output:
 
 <center>
 
-<font size="+2"><b>Sashay... Away.</b></font></center><br>
+<font size="+2"><b>thanos snapped out of the game</b></font></center><br>
 
-<center><p><img src="https://media.giphy.com/media/RPdLHpiOnL2pO/giphy.gif" style="border:5px solid black"></p>
+<center><p><img src="https://64.media.tumblr.com/e932c2703c5a81fb9b6fa7d9b64e2027/118504fd19b94ee5-1f/s400x600/5fa9c79483d0a0877273ea2df1d7f175cb7aa8d5.gif" style="border:5px solid black"></p>
 </center><br>  
 
 <center>
-The following self evaluation is meant to guide you through a reflection on what you put into this course, and also what you got out of it in return. Your self evaluation is *not* the place to criticize, evaluate, or thank the instructor (we will have had many thorough conversations about that in class, and formal evaluations on the last day of class). This is about *you*. Unless otherwise noted, please answer each question in no more than *eight* sentences. At the end, I ask you to assign yourself a grade that you think is both a fair and honest reflection of your performance in the class given what was asked of you.
-<br><br>
-Whether I agree with your assessment or not, I will schedule a time for us to discuss your self-assessment. In this discussion, we will come to an agreement regarding your final grade reflecting the criteria in the [Course Overview](https://fuzzyatelin.github.io/bioanth-stats/overview.html) and as outlined below. 
 
-</center>
-***
+As I finish this class, I can now say I’ve transformed from someone who dreaded coding into someone who genuinely enjoys it. Like Morphine Love Dion slaying the LaLaPaRuza Smackdown in Season 16, I’ve conquered my fear—especially when it comes to coding in R. Through countless modules, homework assignments, a group project, and a final replication assignment, I've gained experience with both statistical analysis in R and also formatting Rmd files-finding confidence in my coding capabilities along the way.
 
-## Instructions
-
-***
-
-Please download this Markdown file (`selfevaluation.Rmd`) from my GitHub site (in the `fuzzyatelin.github.io/bioanth-stats/` folder) and answer the appropriate questions in the spaces provided. Once you've knitted the final file, please send the **html** version of that file to me with the name `[LastF]_S25_SelfEvaluation.html` (with `LastF` meaning your last name followed by your first initial, i.e., mine would be called `SchmittC_S25_SelfEvaluation.html`) via [this link](https://drive.google.com/drive/folders/1VpufYbN9ygRtvlXVm_wdqt8mZU-ychHX?usp=share_link). I must receive this file by **May 1, 2025** at the earliest, and by the **Final Exam Date (May 6, 2025)** at the latest.
-
-***
-
-### Overall Impression
-
-***
-
-In place of my name as author on this Markdown file, please insert your own, along with the date on which you completed this self-assessment. In place of the RuPaul GIF, above, please choose a GIF of a drag queen that best exemplifies your overall feelings about what you learned/accomplished in this course. Additionally, replace the `The following self evaluation...` text below your GIF with a three sentence summary of your experience in the class and what you take away from it to accompany that GIF. You may also choose a catchy title.
 
 ***
 
 ### What were you asked to do?
 
+
 ***
 
 Please give me a bulleted/numbered list of each task you were asked to do for this course. Where relevant, please also link the *html* version of the file representing each task, in your own repos, to the bulleted entry for that task.<br><br><br><br><br><br>
 
-***
+1. Homework 1: Push It! (https://github.com/carlyshea26/AN588-Homework1-cshea26/blob/main/cshea26_FinalHomeworkCode_01.html)
+2. Homework 2: Titis in the Mist... (https://github.com/carlyshea26/AN588-Titis-cshea26/blob/main/cshea26_FinalTitisCode_02.html)
+3. Homework 3: Some of my Best Friends are Zombies... (https://github.com/carlyshea26/AN588_Zombies_cshea26/blob/main/cshea26_FinalHomeworkCode_03.html)
+4. Homework 4: What's Your Malfunction (https://github.com/carlyshea26/AN588_Malfunction_cshea26/blob/main/cshea26_FinalHomeworkCode_04.html)
+5. Homework 5: Boots for Days! (https://github.com/carlyshea26/AN588_Boots_cshea26/blob/main/cshea26_FinalHomeworkCode_05.html)
+6. Replication Assignment (**INSERT WHEN COMPLETE**)
+7. Group Vignette: Diversitree (https://github.com/auzeff/AN588_Vignette/blob/main/AN588_Vignette_References.html)
 
 ### What did you accomplish?
+
+Through these homework/other assignments, I accomplished many of the tasks outlined in the course objectives (below are some important ones I wanted to highlight): 
+- becoming familiar with concepts in applied data science
+- testing hypotheses
+- performing data analysis using version control (this was a challenge in the beginning of the course)
+- interacting with both local and remote data sources
+- implementing reproducible data science workflows
+- accurately assessing, critiquing, and reproducing existing published works
+
+From merely pushing my assignment in Homework 1 to later Bootstraping and writing functions using the Kamilar and Cooper data set in Homework 4 and 5, I can confidently attest that over the duration of the semester, my skills grew as the course expectations did as well. In terms of collaboration, I successfully was able to work as part of a team to problem solve and implement effective coding practices toward our final project. I also effectively communicated with group members for each homework assignment and delivered high quality peer commentary for each homework, highlighting objectives outlined in the courses' Intellectual Toolkit: Teamwork/Collaboration Section.
 
 ***
 
@@ -118,7 +118,7 @@ Please name at least three things you feel you learned in this course.<br><br><b
 
 ***
 
-<br><center>[insert letter grade here]</center><br>
+<br><center>[A]</center><br>
 
 ***
 
