@@ -30,15 +30,15 @@ output:
 
 As I finish this class, I can now say I’ve transformed from someone who dreaded coding into someone who genuinely enjoys it. Like Morphine Love Dion slaying the LaLaPaRuza Smackdown in Season 16, I’ve conquered my fear—especially when it comes to coding in R. Through countless modules, homework assignments, a group project, and a final replication assignment, I've gained experience with both statistical analysis in R and also formatting Rmd files-finding confidence in my coding capabilities along the way.
 
-
 ***
 
 ### What were you asked to do?
 
+In this class, I was asked to learn how to code in R, while gaining awareness of biological anthropology through the explicit testing of hypotheses using statistical inference. I was tasked with completing 5 homework assignments and reviewing/attempting all challenges in BI/AN588 modules, which outlined statistical tests. For each assignment I was asked to provide peer commentary and work in groups to review each assignment before finalizing it. I was also challenged to collaborate with peers on a group project (vignette), generating a module on a new method/package and presenting it to the class after we finished. Finally, I was also asked to replicate/simulate a paper's code by loading their data files and performing analyses outlined in their methods section.
 
 ***
 
-Please give me a bulleted/numbered list of each task you were asked to do for this course. Where relevant, please also link the *html* version of the file representing each task, in your own repos, to the bulleted entry for that task.<br><br><br><br><br><br>
+Please give me a bulleted/numbered list of each task you were asked to do for this course. Where relevant, please also link the *html* version of the file representing each task, in your own repos, to the bulleted entry for that task.
 
 1. Homework 1: Push It! (https://github.com/carlyshea26/AN588-Homework1-cshea26/blob/main/cshea26_FinalHomeworkCode_01.html)
 2. Homework 2: Titis in the Mist... (https://github.com/carlyshea26/AN588-Titis-cshea26/blob/main/cshea26_FinalTitisCode_02.html)
@@ -47,26 +47,44 @@ Please give me a bulleted/numbered list of each task you were asked to do for th
 5. Homework 5: Boots for Days! (https://github.com/carlyshea26/AN588_Boots_cshea26/blob/main/cshea26_FinalHomeworkCode_05.html)
 6. Replication Assignment (**INSERT WHEN COMPLETE**)
 7. Group Vignette: Diversitree (https://github.com/auzeff/AN588_Vignette/blob/main/AN588_Vignette_References.html)
+<br><br>
+
+***
 
 ### What did you accomplish?
 
 Through these homework/other assignments, I accomplished many of the tasks outlined in the course objectives (below are some important ones I wanted to highlight): 
-- becoming familiar with concepts in applied data science
-- testing hypotheses
-- performing data analysis using version control (this was a challenge in the beginning of the course)
-- interacting with both local and remote data sources
-- implementing reproducible data science workflows
-- accurately assessing, critiquing, and reproducing existing published works
 
-From merely pushing my assignment in Homework 1 to later Bootstraping and writing functions using the Kamilar and Cooper data set in Homework 4 and 5, I can confidently attest that over the duration of the semester, my skills grew as the course expectations did as well. In terms of collaboration, I successfully was able to work as part of a team to problem solve and implement effective coding practices toward our final project. I also effectively communicated with group members for each homework assignment and delivered high quality peer commentary for each homework, highlighting objectives outlined in the courses' Intellectual Toolkit: Teamwork/Collaboration Section.
+- Becoming familiar with concepts in applied data science and testing hypotheses
+- Performing data analysis using version control (this was a challenge in the beginning of the course)
+- Interacting with both local and remote data sources
+- Implementing reproducible data science workflows
+- Accurately assessing, critiquing, and reproducing existing published works
 
-***
-
-Please let me know how many of the above tasks you accomplished. If any of them were accomplished later than stipulated, please note that. If you contacted me about them being late (and we discussed it and I said it was ok), please note that, too. You may provide a bulleted/numbered list matching the one above.<br><br><br><br><br><br>
+From merely pushing my assignment in Homework 1 to later bootstraping and writing functions using the Kamilar and Cooper data set in Homework 4 and 5, I can confidently attest that over the duration of the semester, my skills grew as the course expectations did as well. In terms of collaboration, I successfully was able to work as part of a team to problem solve and implement effective coding practices toward our final project. I also effectively communicated with group members for each homework assignment and delivered high quality peer commentary for each homework, highlighting objectives outlined in the courses' Intellectual Toolkit-Teamwork/Collaboration Section.
 
 ***
+Please let me know how many of the above tasks you accomplished. If any of them were accomplished later than stipulated, please note that. If you contacted me about them being late (and we discussed it and I said it was ok), please note that, too. You may provide a bulleted/numbered list matching the one above.<br>
 
+1. Homework 1: Push It! **Accomplished**
+2. Homework 2: Titis in the Mist... **Accomplished**
+3. Homework 3: Some of my Best Friends are Zombies... **Accomplished**
+4. Homework 4: What's Your Malfunction **Accomplished**
+5. Homework 5: Boots for Days! **Accomplished BUT DELAYED**
+- This homework assignment was delayed by two weeks for submission, as a result of delayed peer commentary from my HW 5 Peer Commentary Group. I check with Professor Schmitt to ensure that this was okay and vocalized the difficulties I was experiencing with my Peer Commentary Group as well. 
+6. Replication Assignment **Accomplished**
+7. Group Vignette: Diversitree **Accomplished**
+
+Aside from Homework 5, all assignments were completed on time!
+<br><br>
+
+***
 ### How well did you accomplish them?
+
+In each of the homework assignments, I attempted each section to the best of my ability. I made an effort to attempt the extra credit challenges as shown in [Homework 5](https://github.com/carlyshea26/AN588_Boots_cshea26/blob/main/cshea26_FinalHomeworkCode_05.html) and also work diligently to answer the questions/challenges to the best of my ability. Initially, when I was less confident with statistical tests and answering the challenge questions, I put a lot of time into understanding Rmd formatting, as shown through playing around with colors/themes on [Homework 1](https://github.com/carlyshea26/AN588-Homework1-cshea26/blob/main/cshea26_FinalHomeworkCode_01.html).
+I also am proud of myself because in [Homework 2](https://github.com/carlyshea26/AN588-Titis-cshea26/blob/main/cshea26_FinalTitisCode_02.html) I created a hint/key to understand the RPOIS function, when originally I had no idea what its role was.
+I also initiated communication between group members to plan out how to review peer commentary, to ensure that our timeline for peer review would be efficient, and I tried to give valuable feedback to my peers, so that they then had changes to make for their final homework assignment. 
+<br><br>
 
 ***
 
