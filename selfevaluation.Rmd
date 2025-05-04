@@ -1,7 +1,7 @@
 ---
 title: "AN/BI 588: End-of-Semester Self Evaluation"
 author: "Carly McDermott"
-date: "May 1, 2025"
+date: "May 4, 2025"
 output: 
   rmarkdown::html_document:
     theme: cosmo
@@ -45,7 +45,7 @@ Please give me a bulleted/numbered list of each task you were asked to do for th
 3. Homework 3: Some of my Best Friends are Zombies... (https://github.com/carlyshea26/AN588_Zombies_cshea26/blob/main/cshea26_FinalHomeworkCode_03.html)
 4. Homework 4: What's Your Malfunction (https://github.com/carlyshea26/AN588_Malfunction_cshea26/blob/main/cshea26_FinalHomeworkCode_04.html)
 5. Homework 5: Boots for Days! (https://github.com/carlyshea26/AN588_Boots_cshea26/blob/main/cshea26_FinalHomeworkCode_05.html)
-6. Replication Assignment (**INSERT WHEN COMPLETE**)
+6. Replication Assignment (https://github.com/carlyshea26/cshea26-AN588-Replication/blob/main/Replication_Assignment_Carly.html)
 7. Group Vignette: Diversitree (https://github.com/auzeff/AN588_Vignette/blob/main/AN588_Vignette_References.html)
 <br><br>
 
@@ -69,11 +69,11 @@ Please let me know how many of the above tasks you accomplished. If any of them 
 1. Homework 1: Push It! **Accomplished**
 2. Homework 2: Titis in the Mist... **Accomplished**
 3. Homework 3: Some of my Best Friends are Zombies... **Accomplished**
-4. Homework 4: What's Your Malfunction **Accomplished**
-5. Homework 5: Boots for Days! **Accomplished BUT DELAYED**
+4. Homework 4: What's Your Malfunction... **Accomplished**
+5. Homework 5: Boots for Days!... **Accomplished BUT DELAYED**
 - This homework assignment was delayed by two weeks for submission, as a result of delayed peer commentary from my HW 5 Peer Commentary Group. I check with Professor Schmitt to ensure that this was okay and vocalized the difficulties I was experiencing with my Peer Commentary Group as well. 
-6. Replication Assignment **Accomplished**
-7. Group Vignette: Diversitree **Accomplished**
+6. Replication Assignment... **Accomplished**
+7. Group Vignette: Diversitree... **Accomplished**
 
 Aside from Homework 5, all assignments were completed on time!
 <br><br>
@@ -81,14 +81,21 @@ Aside from Homework 5, all assignments were completed on time!
 ***
 ### How well did you accomplish them?
 
-In each of the homework assignments, I attempted each section to the best of my ability. I made an effort to attempt the extra credit challenges as shown in [Homework 5](https://github.com/carlyshea26/AN588_Boots_cshea26/blob/main/cshea26_FinalHomeworkCode_05.html) and also work diligently to answer the questions/challenges to the best of my ability. Initially, when I was less confident with statistical tests and answering the challenge questions, I put a lot of time into understanding Rmd formatting, as shown through playing around with colors/themes on [Homework 1](https://github.com/carlyshea26/AN588-Homework1-cshea26/blob/main/cshea26_FinalHomeworkCode_01.html).
-I also am proud of myself because in [Homework 2](https://github.com/carlyshea26/AN588-Titis-cshea26/blob/main/cshea26_FinalTitisCode_02.html) I created a hint/key to understand the RPOIS function, when originally I had no idea what its role was.
-I also initiated communication between group members to plan out how to review peer commentary, to ensure that our timeline for peer review would be efficient, and I tried to give valuable feedback to my peers, so that they then had changes to make for their final homework assignment. 
+In each of the homework assignments, I attempted each section to the best of my ability. I made an effort to attempt the extra credit challenges as shown in [Homework 5](https://github.com/carlyshea26/AN588_Boots_cshea26/blob/main/cshea26_FinalHomeworkCode_05.html) and also work diligently to answer the questions/challenges to the best of my ability. Initially, when I was less confident with statistical tests and answering the challenge questions, I put a lot of time into understanding Rmd formatting, as shown through playing around with colors/themes on [Homework 1](https://github.com/carlyshea26/AN588-Homework1-cshea26/blob/main/cshea26_FinalHomeworkCode_01.html). I also am proud of myself because in [Homework 2](https://github.com/carlyshea26/AN588-Titis-cshea26/blob/main/cshea26_FinalTitisCode_02.html) I created a hint/key to understand the RPOIS function, when originally I had no idea what its role was. I also initiated communication between group members to plan out how to review peer commentary, to ensure that our timeline for peer review would be efficient, and I tried to give valuable feedback to my peers, so that they then had changes to make for their final homework assignment. 
 <br><br>
 
 ***
 
-Please let me know how well you feel you accomplished your tasks, in a general sense. What do you feel you did the best, and what did you do the least well? What was the hardest part for you? Did your work/understanding/ease improve over the course of the semester?<br><br><br><br><br><br>
+Please let me know how well you feel you accomplished your tasks, in a general sense. What do you feel you did the best, and what did you do the least well? What was the hardest part for you? Did your work/understanding/ease improve over the course of the semester?
+
+Early on in this course, I would have argued that the thing I excelled most in was formatting Rmd files. Though that may be true to an extent as it is one of the things I love most about working in RStudio, I also have grown to be very satisfied with my bootstrapping abilities. 
+- Example of Formatting Skills: [Replication Assignment](https://github.com/carlyshea26/cshea26-AN588-Replication/blob/main/Replication_Assignment_Carly.html)
+- Example of Bootstrapping Abilities [Homework 5](https://github.com/carlyshea26/AN588_Boots_cshea26/blob/main/cshea26_FinalHomeworkCode_05.html)
+
+To this day, I still struggle with writing functions and cleaning data. Despite homework challenge questions, I found the concept of creating a function to be very difficult (HW 4 was especially challenging for me). I am still proud that I was able to accomplish HW 4 and receive feedback on it from my peers: [Homework 4](https://github.com/carlyshea26/AN588_Malfunction_cshea26/blob/main/cshea26_FinalHomeworkCode_04.html)
+
+Moreover, committing/pushing and pulling code became almost second nature by the end of this course. As someone who, prior to this class, had never downloaded RStudio and never had to commit a file and then push it to a repository, the first few times that I attempted to do this were very discouraging. After tears shed and a lot of time spent trying to learn more about how to push and pull code, this became a lot easier (especially over the course of the semester when cloning repositories became commonplace for providing Peer Commentary).
+<br><br>
 
 ***
 
@@ -96,15 +103,30 @@ Please let me know how well you feel you accomplished your tasks, in a general s
 
 ***
 
-This may be in relation to previous knowledge, or in relation to future/planned work.<br><br><br><br><br><br><br><br>
+This may be in relation to previous knowledge, or in relation to future/planned work.
+
+Prior to taking this course, I had very little understanding of statistics. Having taken MA115 at BU where I was introduced to statistical tests and concepts, I did not retain much before taking this course, let alone learned about linear regressions or two way anova's. Despite this, I found the modules to be extremely helpful for reviewing criteria for statistical tests. Additional code to write it/equations (i.e. Modules 12-14) were even more helpful in grasping a better understanding of both coding and statistical analysis. In terms of project design, I also now hold a greater understanding of how to appropriately structure/create modules for teaching students about statistical tests/new R packages. Great examples of where this understanding were applied can be seen through [Homework 5](https://github.com/carlyshea26/AN588_Boots_cshea26/blob/main/cshea26_FinalHomeworkCode_05.html) and my [Replication Assignment](https://github.com/carlyshea26/cshea26-AN588-Replication/blob/main/Replication_Assignment_Carly.html).
+<br><br>
 
 ***
 
 ### What did you learn from all this?
 
+First and foremost I learned an immense amount about R studio, formatting code, how to appropriately comment on it. I learned more about statistical testing and how to create ways to make it easier, through the use of RStudio, to write code that performs statistical tests for the individual user, rather than performing mathematical calculations themselves. An examples of this can be shown through [Homework 4](https://github.com/carlyshea26/AN588_Malfunction_cshea26/blob/main/cshea26_FinalHomeworkCode_04.html), where students were tasked with the challenge of creating a function to perform one- or two-sample Z-tests for proportion data and fit a linear regression model/produce scatterplots by using the Kamilar and Cooper dataset.
+Moreover, I now feel confident through the [Replication Assignment](https://github.com/carlyshea26/cshea26-AN588-Replication/blob/main/Replication_Assignment_Carly.html) to appropriately reproduce and also critique pushed works through the use of open source data. At the most basic RStudio level too, I can say that I have also learned how to use RMarkdown and Quarto documments/formatting to create and knit html files so that I can share both my code and associated webpages with others (something I am incredibly proud of as prior to this course I did not know what Rmd or Quarto even was).
+
 ***
 
-Please name at least three things you feel you learned in this course.<br><br><br><br><br><br><br><br>
+Please name at least three things you feel you learned in this course.
+
+- I grasped a valuable understanding of R and now retain a baselevel understanding of using packages, downloading datasets and performing analysis with them in RStudio, formatting files, and pushing/pulling commits. 
+- I now understand how to perform basic data analysis in RStudio, creating boxplots, scatterplots, and histograms. This can be shown in [Homework 3](https://github.com/carlyshea26/AN588_Zombies_cshea26/blob/main/cshea26_FinalHomeworkCode_03.html). I know this information will be invaluable in the future when I go onto analyze my own data in lab, where I will be responsible for using R to inform butterfly laval growth and ovoposition trends.  
+- I understand how to properly comment on code, offering advice to other students and providing examples of how to potentially comment on others' code so that they can improve. 
+- I learned about and became more confident with bootstrapping [Homework 5](https://github.com/carlyshea26/AN588_Boots_cshea26/blob/main/cshea26_FinalHomeworkCode_05.html)
+- I also learned about the limitations of some statistical methods and why they cannot be used all the time when analyzing data (Example - [Module 18 - AIC only tells us a relative fit](https://fuzzyatelin.github.io/bioanth-stats/module-18/module-18.html))
+- Finally, I learned that coding does not need to be a scary and inaccessible thing. Overcoming the insecurity about not knowing anything about RStudio was the hardest part learning to code, something that consistently required effort to improve my coding skills and competency.
+
+<br><br>
 
 ***
 
@@ -112,7 +134,12 @@ Please name at least three things you feel you learned in this course.<br><br><b
 
 ***
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+- I learned about the importance of effectively collaborating with teammates, specifically through the use of GitHub repositories, where multiple people working on a single document requires communicating when individuals will be pushing new versions of code to prevent errors/data overrides.
+- Group members may not make or break an assignment (as they could require greater individual effort), but amazing group members will help to ensure that group projects proceed smoothly and that work is split equally.
+
+Overall the readings in teamwork were great when thinking about how to properly go about commenting on someone's code and treating that person with respect while attempting to highlight their successes/offer gentle suggestions for areas where they struggled. Personally, I utilized them each time I performed peer commentary. 
+
+<br><br>
 
 ***
 
@@ -120,15 +147,16 @@ Please name at least three things you feel you learned in this course.<br><br><b
 
 ***
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+Collaboration with peers in this class was a source of both success and strife. I thoroughly enjoyed the Group Project, as all of my peers were incredible with communicating on Slack, finishing their respective sections in a timely manner, and assisting each other when we had questions or required further help. I fully attribute the completion of the project and my satisfaction overall with their efforts and collaboration. On the other hand, while Peer Commentary sometimes provided fruitful explanations of what went wrong with writing code, other times it contributed to delayed assignment submissions and little productive feedback on how to improve or visualize alternative ways of performing tasks for homework challenges (both can be shown through [Homework 5](https://github.com/carlyshea26/AN588_Boots_cshea26/blob/main/cshea26_FinalHomeworkCode_05.html)). An example of a lack of constructive/lacking commentary (although very nice) can be shown [here](https://github.com/carlyshea26/AN588_Boots_cshea26/blob/main/itsjon_PeerCommentary_cshea26.html) with Homework 5-though this is not the only time it occurred.To submit a final version of the homework we need to make changes from the original, and the fact that this came two weeks after the deadline to submit HW5 with little apology and feedback was a little discouraging.
+<br><br>
 
 ***
 
 ### What, if anything, of lasting value do you take away from this experience? If nothing, what would you do differently if you were to start over in this course? 
 
 ***
-
-<br><br><br><br><br><br><br><br><br><br><br><br>
+One of the most important determinants in completing the coursework and learning RStudio has been the effort that I have put into this class. One of the most vital lessons outside of coding I'm taking away has been that staying on top of assignments and making diligent attempts to complete work **early** are critical to both individual and group success. Many times I encountered difficulties in this class stemmed from individual commentators failing to complete assignments in a timely manner, or more importantly, communicating with their respective group mates. For this reason, another important piece of advice I have for any student enrolled in this course is to always prioritize communication with your peers, as it will only positively influence your success in the class. Finally, I feel that it's important to emphasize that not knowing how to do things is okay (a lesson I had to remember many times over this semester) as learning and understanding, especially of an entire coding language, come with time and practice.
+<br><br>
 
 ***
 
@@ -139,6 +167,9 @@ Please name at least three things you feel you learned in this course.<br><br><b
 <br><center>[A]</center><br>
 
 ***
+
+<center>Thank You For a Great Semester!</center>
+
 
 
 
